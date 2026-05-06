@@ -1,0 +1,1 @@
+A privacy-preserving bounty system on Stellar/Soroban using Noir ZK circuits. Contributors prove GitHub identity ownership without revealing their private key, claiming rewards to a stealth address — breaking any on-chain link between GitHub identity and wallet.

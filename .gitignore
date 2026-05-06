@@ -1,0 +1,4 @@
+# Prover inputs — never commit real values
+Prover.toml
+circuits/proofs/
+target/
